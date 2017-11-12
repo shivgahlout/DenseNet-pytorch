@@ -28,4 +28,7 @@ The error rate graph for C10 using densenet-40 is:
 
 You have to run train.py
 ###### python train.py
-Any modifcation in densenet architecture can be made in train.py itself. Three graphs showing accuracy, error rate and loss are updated with each epoch. Training log is also updated with each epoch in a .csv file. In case of any issue feel free to contact me. 
+
+Any modifcation in densenet architecture can be made in train.py itself. More information about implementation can be found in files themselves. As a overview, train.py trains the model, densenet.py defines the densenet, data_utils.py and train_utils.py are supporting files. Three graphs showing accuracy, error rate and loss are updated with each epoch. Training log is also updated with each epoch in a .csv file. 
+
+In case of any issue feel free to contact me. 
