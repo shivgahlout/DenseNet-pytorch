@@ -1,5 +1,5 @@
-# DenseNet-pytorch
-Implementation of DenseNet Using Pytorch
+# A Pytorch Implementation of Densely Connected Convolutional Networks (DenseNets) 
+
 
 
 ##### This repository is developed using pytorch 0.2.0.
