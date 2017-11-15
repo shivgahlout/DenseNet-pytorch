@@ -1,4 +1,4 @@
-# A Pytorch Implementation of Densely Connected Convolutional Networks (DenseNets) 
+# A PyTorch Implementation of Densely Connected Convolutional Networks (DenseNets) 
 
 
 
